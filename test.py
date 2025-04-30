@@ -1,0 +1,1 @@
+print("Ganapati Bappa.. Morya...")
