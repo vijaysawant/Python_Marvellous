@@ -1,0 +1,11 @@
+import Arithematic # type: ignore
+
+def main():
+    no1 = int(input("Enter no1 : "))
+    no2 = int(input("Enter no2 : "))
+
+    ans = Arithematic.Multiplication(no1, no2)
+    print("Multiplication of no1 & no2 : ",ans)
+
+if __name__ == "__main__":
+    main()
